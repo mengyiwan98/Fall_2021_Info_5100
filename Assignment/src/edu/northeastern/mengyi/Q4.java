@@ -1,7 +1,10 @@
 package edu.northeastern.mengyi;
 
-public class Main {
+public class Q4 {
 
+    public static void main(String[] args) {
+        // write your code here
+    }
     public boolean canConstruct(String ransomNote, String magazine) {
         int[] array = new int[26];
         int[] array2 = new int[26];
